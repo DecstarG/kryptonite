@@ -9,10 +9,10 @@ We are currently in need of help to complete the following features:
   * HTML interpretation.
   * VirusTotal API integration.
   * DuckDuckGo instant-answer API integration into top-bar search.
-  * HTTPS Everywhere algorithm integration.
+  * HTTPS-Everywhere-like algorithm integration.
 
 ## Hitlist of upcoming features
-  * HTML text reading.
+  * ~~HTML text reading.~~
   * DuckDuckGo instant-answer API integration.
-  * Automatic scam detection.
+  * ~~Automatic scam detection.~~ (Can detect Apple and Microsoft tech support scams with high accuracy, filter can still always be improved upon though!)
   * Automatic virus scanner.
