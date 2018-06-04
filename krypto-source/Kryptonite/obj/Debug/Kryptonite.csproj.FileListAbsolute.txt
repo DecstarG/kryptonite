@@ -1,0 +1,10 @@
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\bin\Debug\Kryptonite.exe.config
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\bin\Debug\Kryptonite.exe
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\bin\Debug\Kryptonite.pdb
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptonite.csprojResolveAssemblyReference.cache
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptonite.Form1.resources
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptonite.Properties.Resources.resources
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptonite.csproj.GenerateResource.Cache
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptonite.csproj.CoreCompileInputs.cache
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptonite.exe
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptonite.pdb
