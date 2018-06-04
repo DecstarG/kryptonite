@@ -1,6 +1,6 @@
 ﻿namespace Kryptonite
 {
-    partial class Form1
+    partial class Form1Main
     {
         /// <summary>
         /// Required designer variable.
@@ -54,7 +54,7 @@
             // 
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
-            // Form1
+            // Form1Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -63,7 +63,7 @@
             this.Controls.Add(this.textBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.MaximizeBox = false;
-            this.Name = "Form1";
+            this.Name = "Form1Main";
             this.Text = "Kryptonite (Alpha) - The DuckDuckGo Integrated Browser";
             this.ResumeLayout(false);
             this.PerformLayout();
