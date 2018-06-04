@@ -8,3 +8,6 @@ C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptoni
 C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptonite.csproj.CoreCompileInputs.cache
 C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptonite.exe
 C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\obj\Debug\Kryptonite.pdb
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\bin\Debug\DuckDuckGo.dll
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\bin\Debug\Newtonsoft.Json.dll
+C:\Users\decla\DuckDuckGo\Kryptonite\krypto-source\Kryptonite\bin\Debug\VirusTotal.NET.dll
